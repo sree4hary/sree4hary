@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sreehari Surabind
-- 👀 I’m interested in learning/understand the innovations/technology happening in the tech field.
+- 👀 I’m interested in learning/understanding the innovations/changes that are happening in the tech field.
 - 🌱 I’m currently learning basics of web development
 - 📫 To connect with me, mail me at sree4hary@gmail.com
 
