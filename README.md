@@ -24,7 +24,7 @@
     <a href = "https://t.me/sree4hary"><img src="https://telegram.org/img/favicon.ico" alt="Telegram"  height="30"></a>
     </p><br>
 <h2><i>My GitHub Stats</i></h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sree4hary&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="sree4hary github stats" height="139" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree4hary&layout=compact&exclude_repo=humble-leather-6838,future-rabbits-7964,OverStock-Clone&hide=Shell&border_radius=0&theme=dark" alt="sree4hary tech-stacks usage" height="139" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sree4hary&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="sree4hary" height="139" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree4hary&layout=compact&exclude_repo=humble-leather-6838,future-rabbits-7964,OverStock-Clone&hide=Shell&border_radius=0&theme=dark" alt="sree4hary" height="139" />
 </p>
 <br>
