@@ -1,7 +1,7 @@
 <p>Hi Peeps!👋<p>
   
   <h2>About me</h2>
-  <p>I'm an aspiring web developer having hands-on coding experience in web technologies such as HTML5, CSS, JavaScript, Core Java and MySQL. I'm looking for good opportunities to grow my career.</p>
+  <p>I'm an aspiring web developer having hands-on coding experience in web technologies such as HTML5, CSS, JavaScript, Core Java and MySQL. I'm looking for bettere opportunities to grow my career.</p>
   <br>
   <p align="left">
   <a href="https://github.com/sree4hary"><img src="https://komarev.com/ghpvc/?username=sree4hary&label=Profile%20views&color=0e75b6&style=flat" alt="sree4hary views" /><a href="https://github.com/sree4hary?tab=followers"><img src="https://img.shields.io/github/followers/sree4hary?label=Followers&style=social" alt="followers-count">
